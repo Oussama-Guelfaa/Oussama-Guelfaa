@@ -227,7 +227,7 @@
 
 - **Event Manager**, International Students Association  
   Organized inclusive events for 100 + students, from end-of-year galas to hackathons.  
-- **Citizen Projects**: Led website redesigns and local community workshops on digital literacy.
+
 
 ---
 
